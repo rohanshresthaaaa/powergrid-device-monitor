@@ -1,0 +1,18 @@
+# .NET build files
+**/bin/
+**/obj/
+
+# Node / React
+**/node_modules/
+**/dist/
+
+# SQLite local database
+PowerGrid.Api/powergrid.db
+PowerGrid.Api/powergrid.db-shm
+PowerGrid.Api/powergrid.db-wal
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/

@@ -1,0 +1,6 @@
+@PowerGrid.Api_HostAddress = http://localhost:5122
+
+GET {{PowerGrid.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
